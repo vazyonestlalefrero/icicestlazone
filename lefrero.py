@@ -1,0 +1,1 @@
+print("Ouai ouai ouai !")
